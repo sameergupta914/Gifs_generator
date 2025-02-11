@@ -19,3 +19,6 @@ function App() {
 }
 
 export default App;
+
+
+// https://developers.giphy.com/dashboard/
